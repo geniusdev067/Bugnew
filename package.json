@@ -1,0 +1,37 @@
+{
+    "name": "Bot-Bug-Premium-Vip-Telegra Jangan-lupa-subscribe",
+    "version": "2.0.0",
+    "main": "Lexzy",
+    "scripts": {
+        "start": "node Lexzy.js"
+    },
+    "dependencies": {
+        "@whiskeysockets/baileys": "github:Lexzydev/Baileys",
+        "axios": "^1.5.0",
+        "fs": "latest",
+        "chalk": "^4.1.2",
+        "moment": "^2.29.1",
+        "crypto": "latest",
+        "@octokit/rest": "latest",
+        "moment-timezone": "latest",
+        "pino": "^9.5.0",
+        "fs-extra": "11.2.0",
+        "readline-sync": "^1.4.10",
+        "telegraf": "^4.16.3",
+        "form-data": "^4.0.0",
+        "node-fetch": "^2.7.0",
+        "cloudscraper": "latest",
+        "request": "latest",
+        "crypto-random-string": "^3.3.1",
+        "socks": "latest",
+        "random-useragent": "^0.5.0",
+        "cloudflare-bypasser": "^0.0.3",
+        "cheerio": "^1.0.0-rc.12",
+        "express": "^4.18.2",
+        "gradient-string": "^2.0.2",
+        "hpack": "^1.0.0",
+        "ssh2": "^1.15.0",
+        "user-agents": "^1.1.246",
+        "js-confuser": " latest"
+    }
+}
